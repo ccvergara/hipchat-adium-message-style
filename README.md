@@ -1,5 +1,7 @@
 # HipChat Adium Message Style
 
+testing
+
 Makes Adium look like HipChat...without all that nasty Adobe Air memory bloat. :)
 
 Pairs quite nicely with the [HipChat emoticon set for Adium](https://github.com/thepaul/adium-hipchat-emoticons).
